@@ -1,3 +1,8 @@
 h1 {
     color: rebeccapurple;
 }
+
+img {
+    width: 25%;   
+    height: auto; 
+}
